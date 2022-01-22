@@ -42,3 +42,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Preview
+
+!["Phone ecommerce System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870842/My%20apps/screencapture-localhost-3000-2022-01-22-22_29_15_ayvq8t.png "Phone ecommerce System")
+
+!["Phone ecommerce System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870853/My%20apps/screencapture-localhost-3000-details-2022-01-22-22_30_07_edw4ye.png "Phone ecommerce System")
+
+!["Phone ecommerce System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870844/My%20apps/screencapture-localhost-3000-cart-2022-01-22-22_29_51_ldzzog.png "Phone ecommerce System")
